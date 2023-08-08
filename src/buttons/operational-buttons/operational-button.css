@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Graduate&display=swap');
+.operationalButtons{
+    height: 42px;
+    width:60px;
+    background-color: beige;
+    box-shadow: 2px 2px 2px gray;
+    font-family: 'Graduate', cursive;
+    border-radius: 8px;
+    margin-top: 6px;
+    margin-left:7px;
+}
+#opBtns4{
+    background-color: rgb(51, 209, 51);
+}

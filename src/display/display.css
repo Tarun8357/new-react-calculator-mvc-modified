@@ -1,0 +1,11 @@
+.display{
+    height : 60px;
+    width: 252px;
+    background-color:rgb(171, 185, 185);
+    border-bottom: 2px solid black;
+    border-radius:5px;
+    font-size: 23px;
+    font-family: 'Castoro Titling', cursive;
+    font-family: 'Orbitron', sans-serif;
+    box-shadow: 1px 1px black;
+}
