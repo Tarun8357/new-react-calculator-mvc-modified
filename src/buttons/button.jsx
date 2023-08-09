@@ -3,7 +3,7 @@ import"./button.css"
 
 function Button(props){
     const clickHandler=(key)=>{
-      {props.btnPress(key)}
+    //  {props.btnPress(key)}
         console.log(key.value)
     }
  
